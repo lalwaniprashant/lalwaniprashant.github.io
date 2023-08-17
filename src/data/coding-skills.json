@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "C++",
+        "percentage": "70%"
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "percentage": "60%"
+    },
+    {
+        "id": 4,
+        "name": "Javascript",
+        "percentage": "70%"
+    },
+    {
+        "id": 25,
+        "name": "Figma",
+        "percentage": "40%"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "name": "EazyBuy",
+        "type": "web_dev",
+        "description": "Developed a visually appealing and user-friendly e-commerce website showcasing unique products.",
+        "techstack": [
+            "react",
+            "node",
+            "express",
+            "MongoDB"
+        ],
+        "image": "./img/project/eazybuy.png",
+        "code": "https://github.com/lalwaniprashant/eazy-buy"
+    },
+    {
+        "id": 2,
+        "name": "CineVerse",
+        "type": "web_dev",
+        "description": "Created a comprehensive movie rating website as a personal project, allowing users to browse and rate movies.",
+        "techstack": [
+            "react"
+        ],
+        "image": "./img/project/cineverse.png",
+        "code": "https://github.com/lalwaniprashant/cineverse",
+        "live": "https://lalwaniprashant.github.io/cineverse/"
+    },
+    {
+        "id": 3,
+        "name": "WinWizard",
+        "type": "web_dev",
+        "description": "Developed an IPL match win predictor using logistic regression, which achieved an exceptional accuracy rate of over 80%.",
+        "techstack": [
+            "python",
+            "numpy",
+            "pandas"
+        ],
+        "image": "./img/project/winwizard.png",
+        "code": "https://github.com/lalwaniprashant/winwizard"
+    }
+]
